@@ -1,0 +1,11 @@
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:43:58.451Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:45:20.237Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:46:22.730Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:52:57.659Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:54:06.764Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T18:58:11.650Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T19:00:10.760Z"}
+{"level":"error","message":"login Error","timestamp":"2026-07-09T19:03:11.692Z"}
+{"level":"error","message":"Product Creation Error: Product validation failed: images: Cast to string failed for value \"[]\" (type Array) at path \"images\"","timestamp":"2026-07-09T19:58:18.622Z"}
+{"level":"error","message":"Product Creation Error: Product validation failed: images: Cast to string failed for value \"[ 'jony.jpg' ]\" (type Array) at path \"images\"","timestamp":"2026-07-09T19:58:41.931Z"}
+{"level":"error","message":"Product Creation Error: Product validation failed: description: Path `description` is required.","timestamp":"2026-07-09T20:15:10.981Z"}

@@ -1,0 +1,28 @@
+{
+  "name": "ass_task_3_winston_with_swagger_api",
+  "version": "1.0.0",
+  "description": "Product CRUD with authentication, Cloudinary for image storage, unlinking old images, and Winston for log file generate and Swagger Documentation API in Node.js/Express.js.",
+  "main": "app.js",
+  "scripts": {
+    "swagger": "node swagger.js",
+    "dev": "nodemon app.js",
+    "start": "node swagger.js && nodemon app.js"
+    },
+  "author": "anshu",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cloudinary": "^2.10.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.7.4",
+    "multer": "^2.2.0",
+    "nodemon": "^3.1.14",
+    "swagger-autogen": "^2.23.7",
+    "swagger-jsdoc": "^6.3.0",
+    "swagger-ui-express": "^5.0.1",
+    "winston": "^3.19.0"
+  }
+}
